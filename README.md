@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniAppleTheApple&layout=compact)
 
 # MiniApple
-```jgo
+```go
 var NickName string = "MiniApple"
 var RealName string = "Thiago Chen Zhu"
 var From string = "Brazil Rio De Janeiro"

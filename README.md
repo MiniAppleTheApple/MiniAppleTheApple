@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=MiniAppleTheApple)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniAppleTheApple&layout=compact)
 
-# Hi,I am MiniApple Rio De Janeiro!!
+# Hi,I am MiniApple from Rio De Janeiro!!
 ```go
 var NickName string = "MiniApple"
 var RealName string = "Thiago Chen Zhu"

@@ -5,11 +5,11 @@
 ```go
 var NickName string = "MiniApple"
 var RealName string = "Thiago Chen Zhu"
-var From Location = {
+var From Location = Location{
   country: "Brazil",
   city: "Rio De Janeiro",
 }
-var BirthDay Date = {
+var BirthDay Date = Date{
   year: 2007,
   month: 7,
   day: 26,

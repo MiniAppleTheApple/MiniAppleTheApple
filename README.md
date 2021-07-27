@@ -3,10 +3,13 @@
 
 # Hi,I am MiniApple from Rio De Janeiro!!
 ```go
+package main
+
 import (
   lang "programming/language"
   _ "utility"
 )
+
 func main(){
   var NickName string = "MiniApple"
   var RealName string = "Thiago Chen Zhu"

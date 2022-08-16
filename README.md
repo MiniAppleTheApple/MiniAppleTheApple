@@ -19,4 +19,14 @@ defmodule Introduction do
   end
 end
 ```
-
+```clojure
+(defn introduction ({:real_name "Thiago Chen Zhu"
+                     :from {:country "Brazil"
+                            :state "RJ"
+                            :city "Rio de Janeiro"}
+                     :birthday: "2007-07-26"
+                     :gender :male
+                     :favorite_languages '(:c, :lua, :rust, :ruby, :elixir)
+                     :primary_language :python
+                     :about "I was waiting for go 18, and then i realize that go was shit"})
+```

@@ -3,21 +3,18 @@
 
 # Hi,I am MiniApple from Rio De Janeiro!!
 ```elixir
-defmodule Introduction do
-  defstruct nick_name: "MiniApple",
-    real_name: "Thiago Chen Zhu",
-    from: {"Brazil", "RJ", "Rio de Janeiro"},
-    birthday: ~D[2007-07-26],
-    gender: :male,
-    favorite_languages: [:c, :lua, :rust, :ruby, :elixir],
-    primary_language: :python,
-    about: """
-      I was waiting for go 18, and then i realize that go was shit
-    """
-  def say do
-    %Introduction{}
-  end
-end
+mini_apple = %{
+  nick_name: "MiniApple",
+  real_name: "Thiago Chen Zhu",
+  from: {"Brazil", "RJ", "Rio de Janeiro"},
+  birthday: ~D[2007-07-26],
+  gender: :male,
+  favorite_languages: [:elixir, :lua, :kotlin, :rust, :ruby],
+  primary_language: :elixir,
+  about: """
+    I am a functional programming lover.
+  """
+}
 ```
 ```clojure
 (defn introduction ({:real_name "Thiago Chen Zhu"
@@ -26,7 +23,7 @@ end
                             :city "Rio de Janeiro"}
                      :birthday: "2007-07-26"
                      :gender :male
-                     :favorite_languages '(:c, :lua, :rust, :ruby, :elixir)
-                     :primary_language :python
-                     :about "I was waiting for go 18, and then i realize that go was shit"})
+                     :favorite_languages '(:elixir, :lua, :kotlin, :rust, :ruby)
+                     :primary_language :elixir
+                     :about "I am a functional programming lover."})
 ```

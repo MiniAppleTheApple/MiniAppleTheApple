@@ -1,5 +1,5 @@
-[![](https://github-readme-stats.vercel.app/api?username=MiniAppleTheApple&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniAppleTheApple&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=MiniAppleTheApple&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniAppleTheApple&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi,I am MiniApple from Rio De Janeiro!!
 ```elixir

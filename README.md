@@ -1,5 +1,5 @@
-![](https://github-readme-stats.vercel.app/api?username=MiniAppleTheApple)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniAppleTheApple&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=MiniAppleTheApple&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniAppleTheApple)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi,I am MiniApple from Rio De Janeiro!!
 ```elixir

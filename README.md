@@ -9,7 +9,7 @@ mini_apple = %{
   from: {"Brazil", "RJ", "Rio de Janeiro"},
   birthday: ~D[2007-07-26],
   gender: :male,
-  favorite_languages: [:elixir, :lua, :kotlin, :rust, :ruby],
+  favorite_languages: [:elixir, :javascript, :kotlin, :rust],
   primary_language: :elixir,
   about: """
     I am a functional programming lover.
@@ -23,7 +23,7 @@ mini_apple = %{
                             :city "Rio de Janeiro"}
                      :birthday: "2007-07-26"
                      :gender :male
-                     :favorite_languages '(:elixir, :lua, :kotlin, :rust, :ruby)
+                     :favorite_languages '(:elixir, :javascript, :kotlin, :rust)
                      :primary_language :elixir
                      :about "I am a functional programming lover."})
 ```
